@@ -632,7 +632,7 @@
 		(descr "SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C1"
-			(at 0.54 -0.15 -90)
+			(at 0.44 -2.35 -90)
 			(layer "F.SilkS")
 			(uuid "81bbc3ff-3938-49ac-8297-ce2bcc9a42bd")
 			(effects
@@ -1279,7 +1279,7 @@
 		(descr "SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C2"
-			(at 0.305 -0.065 90)
+			(at 0.005 -2.365 90)
 			(layer "F.SilkS")
 			(uuid "1138bbd0-77b8-4839-affd-b298344ef6a3")
 			(effects
@@ -1718,7 +1718,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at 0.18 -0.115 -90)
+			(at 0.08 -0.115 -90)
 			(layer "F.SilkS")
 			(uuid "b3e468c3-8cd5-44f0-bcc4-610d46c22db7")
 			(effects
@@ -3448,7 +3448,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
-			(at -3.74 -0.245 90)
+			(at 0.015 -0.05 90)
 			(layer "F.SilkS")
 			(uuid "775e8983-a723-43c5-bf00-61681f0840f3")
 			(effects
@@ -6070,7 +6070,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at -3.74 -0.13 90)
+			(at -0.085 -0.025 90)
 			(layer "F.SilkS")
 			(uuid "8ac400bf-c9b3-4af4-b0a7-9aa9ab4ad17e")
 			(effects
@@ -6920,7 +6920,7 @@
 		)
 	)
 	(gr_text "SINCLAIR QL\n512kB RAM"
-		(at 108.045 76.073 0)
+		(at 107.27 76.073 0)
 		(layer "F.SilkS")
 		(uuid "74f7556c-2571-4aa7-ab4b-f8b1579268d6")
 		(effects
@@ -6931,7 +6931,7 @@
 		)
 	)
 	(gr_text "(C) 2022 Alvaro Alea Fdz"
-		(at 169.64 63.085 0)
+		(at 169.64 63.685 0)
 		(layer "F.SilkS")
 		(uuid "d013475c-6543-4775-b48d-7ec83e3c94d9")
 		(effects
